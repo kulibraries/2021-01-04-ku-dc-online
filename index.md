@@ -173,7 +173,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a few specific software packages installed. The software setup instructions for the Data Carpentry Genomics workshops can be found at <a href="https://datacarpentry.org/genomics-workshop/setup.html">the workshop overview site</a>.
 </p>
 
 {% comment %}
@@ -237,6 +237,7 @@ Display the contact email address set in the configuration file.
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
+
 
 {% comment %}
 WHO CAN ATTEND?
