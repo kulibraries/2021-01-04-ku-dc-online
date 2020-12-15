@@ -397,6 +397,7 @@ during the workshop.
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
+{% include install_instructions/spreadsheet.html %}
 {% include install_instructions/shell.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
